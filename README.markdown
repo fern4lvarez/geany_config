@@ -9,6 +9,4 @@ Contains:
 
 Merge `geany` directory with `~/.config/geany`.
 
-## Author
 
-Dmitry Novikov (email: a permutation of { .com, @, glowinglens, gmail })
