@@ -3,10 +3,10 @@
 # foreground;background;bold;italic
 default=0x003399;0xffffff;false;false
 comment=0x808080;0xffffff;false;true
-tag=0x002f7a;0xffffff;true;false
-class=0x007f00;0xffffff;true;false
-pseudoclass=0x660010;0xffffff;true;true
-unknown_pseudoclass=0x8f471b;0xffffff;true;false
+tag=0x002f7a;0xffffff;false;false
+class=0x007f00;0xffffff;false;false
+pseudoclass=0x660010;0xffffff;false;true
+unknown_pseudoclass=0x8f471b;0xffffff;false;false
 unknown_identifier=0x007399;0xfff0ff;false;false
 operator=0x301010;0xffffff;false;false
 identifier=0x007399;0xffffff;false;false
@@ -14,7 +14,7 @@ doublestring=0x9900ff;0xffffff;false;false
 singlestring=0x9900ff;0xffffff;false;false
 attribute=0x007f00;0xffffff;false;false
 value=0x575757;0xffffff;false;false
-id=0xc40000;0xffffff;true;false
+id=0xc40000;0xffffff;false;false
 identifier2=0x4a4cc7;0xffffff;false;false
 important=0xb00003;0xffffff;false;false
 directive=0x006bff;0xffffff;false;true

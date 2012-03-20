@@ -18,7 +18,7 @@ margin_folding=0x000000;0x7eb5e6;false;false
 
 # background colour of the current line, only the second and third argument is interpreted
 # use the third argument to enable or disable the highlighting of the current line (has to be true/false)
-current_line=0xNaNNaNNaN;0xf5f3cb;true;false
+current_line=0xNaNNaNNaN;0xedfffe;true;false
 
 # translucency for the current line(first argument) and the selection (second argument)
 # values between 0 and 256 are accepted. Note for Windows 95, 98 and ME users:
