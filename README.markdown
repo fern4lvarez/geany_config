@@ -2,7 +2,8 @@
 
 Contains:
 
-* Ruby and Ruby on Rails snippets.
+* Snippets for Ruby, Ruby on Rails, Python, HTML, PHP, Java, JavaScript, CSS, Latex and more.
+* Keybindings.
 * Light theme.
 
 ## Installation
